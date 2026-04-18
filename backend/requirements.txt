@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+PyGithub
+GitPython
+radon
+networkx
+openai
+python-dotenv
+httpx
+requests
